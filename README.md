@@ -14,15 +14,3 @@
 </FeatureResource>
 <FeatureResource name="TRANSACTIONTAX" ></FeatureResource>
 <FeatureResource name="EC" ></FeatureResource>
-<FeatureResource name="ECM" ></FeatureResource>
-<FeatureResource name="STANDARD" ></FeatureResource>
-<DisplayProduct name="Exemption Certificate Manager" ></DisplayProduct>
-<DisplayProduct name="North America - Consumer Use Tax" ></DisplayProduct>
-<DisplayProduct name="EMEA" ></DisplayProduct>
-<DisplayProduct name="Address Cleansing" ></DisplayProduct>
-<DisplayProduct name="Exemption Certificate Portal" ></DisplayProduct>
-<DisplayProduct name="North America - Sales Tax" ></DisplayProduct>
-<DisplayProduct name="Exemption Certificate WIZARD" ></DisplayProduct>
-</RuntimeLicense>
-<SignatureStop ><![CDATA[OyIbSr5eVpTODa2mJu+cyacwWC/yzjNnOsbZbB0SBZUmfWc202Exxcluo4+QiZZaGzo4mmUoNuqbR+ocSaMH9sfnDSm+BhC/8Z84P5drVMnDrNWHHTCbGuMqtfwJeJ7z7G4bCgCjkdgzTMNg922d0OX/cDX9c8JXy1CwuqloeWL]]></SignatureStop>
-</RuntimeLicenses>
